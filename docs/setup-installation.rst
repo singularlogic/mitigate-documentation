@@ -2,5 +2,5 @@
 Installation
 ============
 
-Installation instructions of CloudTeams are not yet available::
+Installation instructions of Mitigate Platform are not yet available::
 
