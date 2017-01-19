@@ -16,14 +16,14 @@ Create Account
 - Go to ...
 - Create develper account
 
-View Projects
+Login
 ------------
 
 Select project of interest and follow project:
 
     image here
 
-Contribute
+Logout
 ----------
 
 - With source code
