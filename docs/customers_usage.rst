@@ -9,13 +9,13 @@ To use CloudTeams, you have to make an customer account::
 .. note::
     Customer account is needed for following and participating to new projects.
 
-Create Account -- **Currently Not Available **
+Declaring a new Threat
 --------
 
 - Go to ..
 - Create customer account
 
-Login to Customers Platform  
+Edit a Threat   
 --------
 
 - Go to ..
@@ -23,7 +23,7 @@ Login to Customers Platform
 - Login with your creadentials
 
 
-View Projects
+Delete a Threat
 ------------
 
 Select project of interest and follow project:
