@@ -13,7 +13,7 @@ To use Persona Builder as a developer, you have to make an developer account::
 Create Account
 --------
 
-- Go to visit http://cloudteams.epu.ntua.gr:8008/
+- Go to visit 
 - Create develper account
 
 

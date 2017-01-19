@@ -13,7 +13,7 @@ To use CloudTeams as a developer, you have to make an developer account::
 Create an Account for Team Plaform  -- **Currently Not Available**
 --------
 
-- Go to visit https://cloudteams.fit.fraunhofer.de/
+- Go to visit 
 - Create develper account
 
 Login to Team Platform  
