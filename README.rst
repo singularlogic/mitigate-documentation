@@ -23,7 +23,7 @@ Login
 
 - When user access the MITIGATE site https://mitigate.euprojects.net/ the following screen is shown:
 
-.. image:: docs/assets/Log.png
+.. image:: assets/Log.png
    
 
 Logout
