@@ -21,7 +21,6 @@ Create Account
 Login
 ------------
 
-Select project of interest and follow project:
 - When user access the MITIGATE site https://mitigate.euprojects.net/ the following screen is shown:
 
 .. image:: docs/assets/Log.png
