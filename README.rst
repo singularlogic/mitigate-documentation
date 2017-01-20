@@ -16,14 +16,16 @@ Create Account
 - When user access the MITIGATE site https://mitigate.euprojects.net/ the following screen is shown:
 .. image:: docs/assets/Log.png
 
-- Create develper account
+- Create developer account
 
 Login
 ------------
 
 Select project of interest and follow project:
+- When user access the MITIGATE site https://mitigate.euprojects.net/ the following screen is shown:
 
-    image here
+.. image:: docs/assets/Log.png
+   
 
 Logout
 ----------
