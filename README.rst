@@ -13,7 +13,9 @@ Look how easy it is to use:
 Create Account
 --------
 
-- Go to ...
+- When user access the MITIGATE site https://mitigate.euprojects.net/ the following screen is shown:
+.. image::assets/Log.png
+
 - Create develper account
 
 Login
