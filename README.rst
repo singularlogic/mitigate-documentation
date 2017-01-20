@@ -14,7 +14,7 @@ Create Account
 --------
 
 - When user access the MITIGATE site https://mitigate.euprojects.net/ the following screen is shown:
-.. image:: assets/Log.png
+.. image:: docs/assets/Log.png
 
 - Create develper account
 
