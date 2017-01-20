@@ -1,5 +1,5 @@
 ========
-Team Platform Usage 
+Supply Chain Service
 ========
 
 To use CloudTeams as a developer, you have to make an developer account::
