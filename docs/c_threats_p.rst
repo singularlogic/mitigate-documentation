@@ -19,11 +19,10 @@ Add a new threat profile
 
 .. image:: assets/n_tp_2.png
 
--
-
+fdgdfgd
 .. image:: assets/n_tp_3.png
 
--
+- You have successfully create a new threat profile. The new threat profile info appeared in “Threat Profile Management” Panel.
 
 .. image:: assets/n_tp_4.png
 
