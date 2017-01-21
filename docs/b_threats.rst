@@ -1,5 +1,5 @@
 ========
-Threats Management
+Threat Management
 ========
 
 Declaring a new Threat
@@ -10,11 +10,11 @@ Declaring a new Threat
 
 .. image:: assets/Log_4.png
 
-- Place the cursor and click ''Threats'' panel.
+- Place the cursor and click on ''Threats'' panel.
 
 .. image:: assets/new_threat.png
 
-- Left click on "Create New" button
+- Click on "Create New" button
 
 .. image:: assets/new_threat_2.png
 
