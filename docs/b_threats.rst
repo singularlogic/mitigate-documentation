@@ -57,10 +57,23 @@ Edit a Threat
 
 Delete a Threat
 ------------
-- This use case describes the consecutive steps that have to be undertaken in order to declare a new threat.
+- This use case describes the consecutive steps that have to be undertaken in order to delete a desired threat.
+
 - Login to the application
 
 .. image:: assets/Log_4.png
+
+- Place the cursor and click on "Threats" menu-item. 
+
+.. image:: assets/del_threat.png
+
+- Press on "delete" button on the desired threat.
+
+.. image:: assets/del_threat_2.png
+
+- You have successfully delete a threat.
+
+.. image:: assets/del_threat_3.png
 
     
 
