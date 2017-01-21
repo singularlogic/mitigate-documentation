@@ -1,5 +1,5 @@
 ============
-Sites
+Site Management
 ============
 
 Declaring a new site
