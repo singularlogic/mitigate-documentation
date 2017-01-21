@@ -1,5 +1,5 @@
 ========
-Supply Chain Service
+Supply Chain Services
 ========
 
 To use CloudTeams as a developer, you have to make an developer account::
