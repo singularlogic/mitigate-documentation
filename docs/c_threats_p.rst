@@ -12,7 +12,7 @@ Add a new threat profile
 
 .. image:: assets/Log_4.png
 
-- 
+- Place the cursor and click on "Threat Profile" menu-item.
 
 .. image:: assets/n_tp.png
 
