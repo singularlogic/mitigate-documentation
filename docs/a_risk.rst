@@ -24,7 +24,19 @@ Login
 - When user access the MITIGATE site https://mitigate.euprojects.net/ the following screen is shown:
 
 .. image:: assets/Log.png
-   
+
+- Place the cursor and click the <Log in > Button .
+
+.. image:: assets/Log_1.png
+
+- Provide your login credentials and click the “ SIGN IN” button.
+
+.. image:: assets/Log_3.png
+
+- You have successfully log-In into Mitigate risk assesment.
+
+.. image:: assets/Log_4.png
+
 
 Logout
 ----------
