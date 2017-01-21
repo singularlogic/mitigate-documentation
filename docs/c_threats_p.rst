@@ -12,11 +12,11 @@ Add a new threat profile
 
 .. image:: assets/Log_4.png
 
--
+- 
 
 .. image:: assets/n_tp.png
 
--
+- Click on create new button.
 
 .. image:: assets/n_tp_2.png
 
