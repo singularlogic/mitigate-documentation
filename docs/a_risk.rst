@@ -41,11 +41,17 @@ Login
 Logout
 ----------
 
-- With source code
-- with ...
+- Place the cursor and click the <Log-out > Button.
+
+.. image:: assets/logout.png
+
+- You have successfully logout MITIGATE.
+
+.. image:: assets/logout_2.png
+
 
 Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: g.ledakis@gmail.com
+
