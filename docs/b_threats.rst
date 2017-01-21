@@ -33,32 +33,18 @@ Declaring a new Threat
 
 Edit a Threat   
 --------
-- Go to ..
-.. image:: assets/login1.png
-- Login with your creadentials
+- This use case describes the consecutive steps that have to be undertaken in order to edit a threat.
+
+- Login with your creadentials 
+
+.. image:: assets/edit_threat.png
 
 
 Delete a Threat
 ------------
 
-Select project of interest and follow project:
-
-.. image:: assets/viewproject.png
 
 
-Improve your profile with manually entered data
-------------
-
-- Add info for your profile
-
-    
-
-Improve your profile with automatically collected data
-------------
-
-- Synchronize social media accounts
-.. image:: assets/subscribe.png
-- 
 
     
 
