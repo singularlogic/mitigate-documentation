@@ -1,4 +1,4 @@
-About Mitigate
+Risk assessment walkthrough
 ========
 
 $project will solve your problem of where to start with documentation,
