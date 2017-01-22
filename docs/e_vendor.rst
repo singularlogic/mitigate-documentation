@@ -37,3 +37,23 @@ Add a vendor
 - te
 
 .. image:: assets/ed_v.png
+
+- ff
+
+.. image:: assets/ed_v_1.png
+
+- ss
+
+.. image:: assets/ed_v_2.png
+
+- pp
+
+.. image:: assets/ed_v_2.png
+
+Edit a vendor
+------------
+
+
+Delete a vendor
+------------
+
