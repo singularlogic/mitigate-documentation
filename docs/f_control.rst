@@ -10,7 +10,7 @@ Declaring a new control
 
 .. image:: assets/Log_4.png
 
-- test
+- Click on “Control” Menu-item.
 
 .. image:: assets/cc.png
 
@@ -22,7 +22,7 @@ Declaring a new control
 
 .. image:: assets/cc_3.png
 
-- test
+- Upon succesful declaration, the new control appears in vendor management list.
 
 .. image:: assets/cc_4.png
 
