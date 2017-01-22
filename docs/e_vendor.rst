@@ -58,6 +58,11 @@ Edit a vendor
 
 .. image:: assets/Log_4.png
 
+- Click on "Vendors" Menu-item.
+
+.. image:: assets/vl.png
+
+
 Delete a vendor
 ------------
 
