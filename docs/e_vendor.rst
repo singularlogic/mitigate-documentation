@@ -38,7 +38,7 @@ Add a vendor
 
 .. image:: assets/ed_v.png
 
-- ff
+- Provide vendor details in textbox area. 
 
 .. image:: assets/ed_v_1.png
 
