@@ -18,7 +18,7 @@ Declaring a new control
 
 .. image:: assets/cc_2.png
 
-- test
+- Provide threat details such us (Name,Type,Description)
 
 .. image:: assets/cc_3.png
 
