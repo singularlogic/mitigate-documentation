@@ -14,7 +14,7 @@ Search the vendor list
 
 .. image:: assets/vl.png
 
-- tr
+- Provide vendor details in the prompted text box and click on preferred vendor from prompted dropdown list.
 
 .. image:: assets/vl_2.png
 
