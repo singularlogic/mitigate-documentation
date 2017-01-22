@@ -46,7 +46,7 @@ Add a vendor
 
 .. image:: assets/ed_v_2.png
 
-- Upon successful editing of a vendor the list of vendors will be update it.
+- Upon successful addition of a vendor, the list of vendors will be update it.
 
 .. image:: assets/ed_v_2.png
 
@@ -69,7 +69,19 @@ Edit a vendor
 Delete a vendor
 ------------
 
+- In order to search the vendor list several consecutive steps have to be undertaken .
+- Initially the user must login.
 
+.. image:: assets/Log_4.png
 
+- Click on "Vendors" Menu-item.
 
+.. image:: assets/vl.png
 
+- Press on “delete” button on the desired vendor.
+
+.. image:: assets/dv.png
+
+- Upon successful delete of a vendor, the list of vendors will be update it.
+
+.. image:: assets/dv_2.png
