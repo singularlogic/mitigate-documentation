@@ -64,9 +64,28 @@ Edit a threat profile
 
 .. image:: assets/n_tp.png 
 
--ted
+- Press on the “edit” button.
 
 .. image:: assets/ed_tp_2.png
+
+- Apply the desired changes in “Threat Edit” panel.
+
+.. image:: assets/ed_tp_3.png
+
+- Click on the “Save” button.
+
+.. image:: assets/ed_tp_4.png
+
+- Upon successful editing of a threat profile the list of threat profiles will be update it.
+
+.. image:: assets/ed_tp_5.png
+
+
+
+
+
+
+
 
 
 
