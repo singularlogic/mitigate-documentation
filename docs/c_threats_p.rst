@@ -6,13 +6,13 @@ Threats Profiles
 Add a new threat profile
 --------
 
-- This use case describes the consecutive steps that have to be undertaken in order to declare a new threat profile.
+- in order to declare a new threat profile several consecutive steps have to be undertaken .
 
-- Login to the application
+- Initially the user must be login.
 
 .. image:: assets/Log_4.png
 
-- Place the cursor and click on "Threat Profile" menu-item.
+- Click on "Threat Profile" menu-item.
 
 .. image:: assets/n_tp.png
 
@@ -20,11 +20,11 @@ Add a new threat profile
 
 .. image:: assets/n_tp_2.png
 
-- Provide threat credentials and push the "save" button
+- Provide threat details and push the "save" button.
 
 .. image:: assets/n_tp_3.png
 
-- You have successfully create a new threat profile. The new threat profile info appeared in “Threat Profile Management” Panel.
+- Upon successful creation of new threat profile.The overall list od declare threat profiles will be update it.
 
 .. image:: assets/n_tp_4.png
 
