@@ -33,6 +33,22 @@ Managing a new control
 
 .. image:: assets/Log_4.png
 
+- test
+
+.. image:: assets/mc.png
+
+- test
+
+.. image:: assets/mc_2.png
+
+- test 
+
+.. image:: assets/mc_3.png
+
+-test
+
+.. image:: assets/mc_4.png
+
 Delete a Control
 ----------------
 - In order to declare a new control  several consecutive steps have to be undertaken .
