@@ -1,5 +1,5 @@
 ========
-Vendors
+Vendors Management
 ========
 
 Search the vendor list
