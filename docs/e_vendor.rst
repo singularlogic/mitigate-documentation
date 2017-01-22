@@ -34,7 +34,7 @@ Add a vendor
 
 .. image:: assets/vl.png
 
-- te
+- Click on “Create New” button.
 
 .. image:: assets/ed_v.png
 
