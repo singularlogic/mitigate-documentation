@@ -14,7 +14,7 @@ Declaring a new control
 
 .. image:: assets/cc.png
 
-- test
+- Click on “Create New” button.
 
 .. image:: assets/cc_2.png
 
