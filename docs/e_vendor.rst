@@ -46,13 +46,17 @@ Add a vendor
 
 .. image:: assets/ed_v_2.png
 
-- Upon successful editing of a threat the list of threats will be update it.
+- Upon successful editing of a vendor the list of vendors will be update it.
 
 .. image:: assets/ed_v_2.png
 
 Edit a vendor
 ------------
 
+- In order to search the vendor list several consecutive steps have to be undertaken .
+- Initially the user must login.
+
+.. image:: assets/Log_4.png
 
 Delete a vendor
 ------------
