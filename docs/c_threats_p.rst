@@ -68,7 +68,7 @@ Edit a threat profile
 
 .. image:: assets/ed_tp_2.png
 
-- Apply the desired changes in “Threat Edit” panel.
+- Apply the desired changes in “Threat profiles Edit” panel.
 
 .. image:: assets/ed_tp_3.png
 
