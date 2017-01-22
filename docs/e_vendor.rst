@@ -33,3 +33,7 @@ Add a vendor
 - Click on "Vendors" Menu-item.
 
 .. image:: assets/vl.png
+
+- te
+
+.. image:: assets/ed_v.png
