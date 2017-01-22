@@ -18,7 +18,7 @@ Declaring a new control
 
 .. image:: assets/cc_2.png
 
-- Provide threat details such us (Name,Type,Description)
+- Provide control details such us (Name,Type,Description)
 
 .. image:: assets/cc_3.png
 
@@ -28,7 +28,14 @@ Declaring a new control
 
 Managing a new control
 ----------------------
+- In order to declare a new control  several consecutive steps have to be undertaken .
+- Initially the user must login.
+
+.. image:: assets/Log_4.png
 
 Delete a Control
 ----------------
+- In order to declare a new control  several consecutive steps have to be undertaken .
+- Initially the user must login.
 
+.. image:: assets/Log_4.png
