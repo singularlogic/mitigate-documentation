@@ -4,7 +4,7 @@ Threat Management
 
 Declaring a new Threat
 --------
-- in order to declare a new threat several consecutive steps have to be undertaken .
+- In order to declare a new threat several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
@@ -14,7 +14,7 @@ Declaring a new Threat
 
 .. image:: assets/new_threat.png
 
-- Click on "Create New" button
+- Click on "Create New" button.
 
 .. image:: assets/new_threat_2.png
 
@@ -22,11 +22,11 @@ Declaring a new Threat
 
 .. image:: assets/new_threat_3.png
 
-- Click on the "Save" button
+- Click on the "Save" button.
 
 .. image:: assets/new_threat_4.png
 
-- Upon succesful declaration of the new threat the list of declare threats will be update it..
+- Upon succesful declaration of the new threat the list of declare threats will be update it.
 
 .. image:: assets/new_threat_5.png
 
@@ -47,7 +47,7 @@ Edit a Threat
 
 .. image:: assets/edit_threat_3.png
 
-- Click on the "Save" Button.
+- Click on the "Save" button.
 
 .. image:: assets/edi_threat_4.png
 
