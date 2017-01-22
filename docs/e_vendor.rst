@@ -46,7 +46,7 @@ Add a vendor
 
 .. image:: assets/ed_v_2.png
 
-- pp
+- Upon successful editing of a threat the list of threats will be update it.
 
 .. image:: assets/ed_v_2.png
 
