@@ -62,7 +62,14 @@ Edit a vendor
 
 .. image:: assets/vl.png
 
+- Press the “edit” button.
+
+.. image:: assets/ev_1.png
 
 Delete a vendor
 ------------
+
+
+
+
 
