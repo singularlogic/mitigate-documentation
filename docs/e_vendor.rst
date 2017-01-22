@@ -18,7 +18,7 @@ Search the vendor list
 
 .. image:: assets/vl_2.png
 
-- tuyi
+- Upon succesful search, the preferred vendor appears in vendor management list.
 
 .. image:: assets/vl_3.png
 
