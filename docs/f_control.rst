@@ -1,9 +1,15 @@
 ============
-Control
+Control Management
 ============
 
 Declaring a new control
 -----------------------
+
+- In order to declare a new control  several consecutive steps have to be undertaken .
+- Initially the user must login.
+
+.. image:: assets/Log_4.png
+
 
 Managing a new control
 ----------------------
