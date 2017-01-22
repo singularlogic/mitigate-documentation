@@ -4,13 +4,13 @@ Threat Management
 
 Declaring a new Threat
 --------
-- This use case describes the consecutive steps that have to be undertaken in order to declare a new threat.
+- in order to declare a new threat several consecutive steps have to be undertaken .
 
-- Login to the application
+- Initially the user must login.
 
 .. image:: assets/Log_4.png
 
-- Place the cursor and click on ''Threats'' menu-item.
+- Click on ''Threats'' menu-item.
 
 .. image:: assets/new_threat.png
 
@@ -18,24 +18,24 @@ Declaring a new Threat
 
 .. image:: assets/new_threat_2.png
 
-- Provide threat credentials
+- Provide threat details such us (Name,Identifier,Description)
 
 .. image:: assets/new_threat_3.png
 
-- Click on "Save" Button
+- Click on the "Save" button
 
 .. image:: assets/new_threat_4.png
 
-- You have successfully create a new threat. The new threat info appeared in “Threat Management” Panel.
+- Upon succesful declaration of the new threat the list of declare threats will be update it..
 
 .. image:: assets/new_threat_5.png
 
 
 Edit a Threat   
 --------
-- This use case describes the consecutive steps that have to be undertaken in order to edit a threat.
+- In order to edit a threat several consecutive steps  have to be undertaken.
 
-- Place the cursor and click on "Threats" menu-item. 
+- Click on "Threats" menu-item. 
 
 .. image:: assets/edit_threat.png
 
@@ -47,23 +47,23 @@ Edit a Threat
 
 .. image:: assets/edit_threat_3.png
 
-- Click on "Save" Button.
+- Click on the "Save" Button.
 
 .. image:: assets/edi_threat_4.png
 
-- You have successfully edit a threat. The changed threat info appeared in "Threat Management" Panel.
+- Upon successful editing of a threat the list of threats will be update it.
 
 .. image:: assets/edit_threat_5.png
 
 Delete a Threat
 ------------
-- This use case describes the consecutive steps that have to be undertaken in order to delete a desired threat.
+- In order to delete a threat several consecutive steps have to be undertaken.
 
 - Login to the application
 
 .. image:: assets/Log_4.png
 
-- Place the cursor and click on "Threats" menu-item. 
+- Click on "Threats" menu-item. 
 
 .. image:: assets/del_threat.png
 
@@ -71,7 +71,7 @@ Delete a Threat
 
 .. image:: assets/del_threat_2.png
 
-- You have successfully delete a threat.
+- Upon successful editing of a threat the list of threats will be update it.
 
 .. image:: assets/del_threat_3.png
 
