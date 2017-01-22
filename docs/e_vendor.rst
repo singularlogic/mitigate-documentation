@@ -10,7 +10,7 @@ Search the vendor list
 
 .. image:: assets/Log_4.png
 
-- test
+- Click on "Vendors" Menu-item.
 
 .. image:: assets/vl.png
 
