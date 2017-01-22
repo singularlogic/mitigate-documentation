@@ -42,7 +42,7 @@ Add a vendor
 
 .. image:: assets/ed_v_1.png
 
-- ss
+- Click on the “Save” button.
 
 .. image:: assets/ed_v_2.png
 
