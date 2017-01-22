@@ -22,7 +22,7 @@ Declaring a new control
 
 .. image:: assets/cc_3.png
 
-- Upon succesful declaration, the new control appears in vendor management list.
+- Upon successful declaration, the new control appears in vendor management list.
 
 .. image:: assets/cc_4.png
 
