@@ -25,3 +25,9 @@ Search the vendor list
 
 Add a vendor
 ------------
+- In order to search the vendor list several consecutive steps have to be undertaken .
+- Initially the user must login.
+
+.. image:: assets/Log_4.png
+
+-
