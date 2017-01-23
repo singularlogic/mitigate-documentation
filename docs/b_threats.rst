@@ -71,7 +71,7 @@ Delete a Threat
 
 .. image:: assets/del_threat_2.png
 
-- Upon successful editing of a threat the list of threats will be update it.
+- Upon successful deleting of a threat the list of threats will be update it.
 
 .. image:: assets/del_threat_3.png
 
