@@ -37,7 +37,7 @@ Managing a new control
 
 .. image:: assets/mc.png
 
-- test
+- Press the “edit” button.
 
 .. image:: assets/mc_2.png
 
