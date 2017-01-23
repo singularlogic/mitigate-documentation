@@ -13,7 +13,7 @@ Declaring a new site
 
 .. image:: assets/ss.png
 
-- test
+- Click on "create new" button.
 
 .. image:: assets/ss_1.png
 
