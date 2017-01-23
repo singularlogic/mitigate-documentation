@@ -1,7 +1,7 @@
-Bussiness Partners Management
+Business Partners Management
 ==========================
 
-Add a Bussiness Partner
+Add a Business Partner
 --------------------------------------
 
 - In order to declare a new threat several consecutive steps have to be undertaken .
@@ -22,7 +22,7 @@ Add a Bussiness Partner
 
 .. image:: assets/bp_3.png
 
--test
+- Upon succesful declaration of the new business  the list of declare business  will be update it.
 
 .. image:: assets/bp_3.png
 
