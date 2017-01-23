@@ -18,14 +18,14 @@ Add a Business Partner
 
 .. image:: assets/bp_2.png
 
+- Provide Business partner details.
+
+.. image:: assets/bp_3.png
+
 - Click on the “Save” button.
 
 .. image:: assets/bp_3.png
 
-- Upon succesful declaration of the new business  the list of declare business  will be update it.
-
-.. image:: assets/bp_3.png
-.
 - Upon succesful declaration of the new business  the list of declare business partners  will be update it.
 
 .. image:: assets/bp.png
