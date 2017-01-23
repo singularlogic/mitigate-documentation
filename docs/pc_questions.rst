@@ -4,13 +4,13 @@ Business Partners Management
 Add a Business Partner
 --------------------------------------
 
-- In order to declare a new threat several consecutive steps have to be undertaken .
+- In order to declare a new Business partner several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
 .. image:: assets/Log_4.png
 
-- test
+- Click on ‘’Business partners’’ menu-item.
 
 .. image:: assets/bp.png
 
