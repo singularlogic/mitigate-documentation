@@ -77,7 +77,7 @@ Delete an existing network
 
 .. image:: assets/dn_2.png
 
-- test 
+- Upon successful deleting of a network the list of networks will be update it. 
 
 .. image:: assets/dn_3.png
 
