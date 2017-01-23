@@ -47,9 +47,11 @@ Edit a Bussiness Partner
 
 .. image:: assets/bp.png
 
-- test
+- Press the “edit” button.
 
-.. image:: assets/bp.png
+.. image:: assets/ebp.png
+
+
 
 Delete a Bussiness Partner
 --------------------------------------
