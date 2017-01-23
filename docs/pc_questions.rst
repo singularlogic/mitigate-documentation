@@ -43,11 +43,13 @@ Edit a Bussiness Partner
 
 .. image:: assets/Log_4.png
 
-- test
+- Click on ‘’Business partners’’ menu-item.
 
 .. image:: assets/bp.png
 
+- test
 
+.. image:: assets/bp.png
 
 Delete a Bussiness Partner
 --------------------------------------
@@ -58,6 +60,6 @@ Delete a Bussiness Partner
 
 .. image:: assets/Log_4.png
 
-- test
+- Click on ‘’Business partners’’ menu-item.
 
 .. image:: assets/bp.png
