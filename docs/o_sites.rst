@@ -56,14 +56,32 @@ Edit a site
 .. image:: assets/ss.png
 
 
-
-
-
 Delete an existing site
 ----------------
 
-- In order to delete a threat several consecutive steps have to be undertaken .
+- In order to delete a site several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
 .. image:: assets/Log_4.png
+
+- Click on “Sites” menu-item.
+
+.. image:: assets/ss.png
+
+- Click on “Sites” menu-item.
+
+.. image:: assets/ds.png
+
+- terst
+
+.. image:: assets/ds_2.png
+
+
+
+
+
+
+
+
+
