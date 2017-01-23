@@ -55,7 +55,7 @@ Edit a site
 
 .. image:: assets/ds_3.png
 
-- test
+- Upon successful editing of a site the list of sites will be update it.
 
 .. image:: assets/ss.png
 
