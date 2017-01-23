@@ -43,11 +43,7 @@ Edit a site
 
 .. image:: assets/ss.png
 
-- Press the “edit” button. 
-
-.. image:: assets/ed.png
-
-- Apply the requirement changes in “Site Edit” panel.
+- Press the “edit” button.
 
 .. image:: assets/ed_2.png
 
@@ -66,7 +62,7 @@ Edit a site
 Delete an existing site
 ----------------
 
-- In order to declare a new threat several consecutive steps have to be undertaken .
+- In order to delete a threat several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
