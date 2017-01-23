@@ -31,9 +31,6 @@ Add a Business Partner
 .. image:: assets/bp.png
 
 
-
-
-
 Edit a Bussiness Partner
 --------------------------------------
 
@@ -69,7 +66,7 @@ Delete a Bussiness Partner
 
 .. image:: assets/bp.png
 
-- test
+- Press on “delete” button on the desired threat.
 
 .. image:: assets/dp_2.png
 
