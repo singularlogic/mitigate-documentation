@@ -55,3 +55,18 @@ Delete a Control
 - Initially the user must login.
 
 .. image:: assets/Log_4.png
+
+- Click on “Control” menu-item.
+
+.. image:: assets/mc.png
+
+- test
+
+.. image:: assets/dc.png
+
+- test
+
+.. image:: assets/dc_2.png
+
+
+
