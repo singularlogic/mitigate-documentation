@@ -33,7 +33,7 @@ Managing a new control
 
 .. image:: assets/Log_4.png
 
-- test
+- Click on “Control” menu-item.
 
 .. image:: assets/mc.png
 
