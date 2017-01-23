@@ -10,7 +10,7 @@ Declaring a new control
 
 .. image:: assets/Log_4.png
 
-- Click on “Control” Menu-item.
+- Click on “Controls” Menu-item.
 
 .. image:: assets/cc.png
 
@@ -22,13 +22,13 @@ Declaring a new control
 
 .. image:: assets/cc_3.png
 
-- Upon successful declaration, the new control appears in vendor management list.
+- Upon successful declaration, the new control appears in control management list.
 
 .. image:: assets/cc_4.png
 
 Managing a new control
 ----------------------
-- In order to declare a new control  several consecutive steps have to be undertaken .
+- In order to managung  a new control  several consecutive steps have to be undertaken .
 - Initially the user must login.
 
 .. image:: assets/Log_4.png
@@ -52,7 +52,8 @@ Managing a new control
 Delete a Control
 ----------------
 
-- In order to declare a new control  several consecutive steps have to be undertaken .
+- In order to delete a control several consecutive steps have to be undertaken .
+
 - Initially the user must login.
 
 .. image:: assets/Log_4.png
