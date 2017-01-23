@@ -45,7 +45,7 @@ Managing a new control
 
 .. image:: assets/mc_3.png
 
--test
+-Upon successful editing of a control the list of controls will be update it.
 
 .. image:: assets/mc_4.png
 
