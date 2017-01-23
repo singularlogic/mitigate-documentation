@@ -16,7 +16,7 @@ Declaring a new network
 
 .. image:: assets/cn.png
 
-- Provide network details such us (Name,type,Network Identifier).
+- Click on “Create New” button.
 
 .. image:: assets/cn_2.png
 
