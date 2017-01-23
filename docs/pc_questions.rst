@@ -18,7 +18,7 @@ Add a Business Partner
 
 .. image:: assets/bp_2.png
 
-- test
+- Click on the “Save” button.
 
 .. image:: assets/bp_3.png
 
