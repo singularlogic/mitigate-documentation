@@ -9,12 +9,21 @@ Declaring a new site
 
 .. image:: assets/Log_4.png
 
+- test
 
+.. image:: assets/ss.png
 
+- test
 
+.. image:: assets/ss_2.png
 
+- test
 
+.. image:: assets/ss_3.png
 
+- test
+
+.. image:: assets/ss_4.png
 
 
 Edit a site
