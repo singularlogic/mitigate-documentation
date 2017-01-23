@@ -9,7 +9,7 @@ Declaring a new site
 
 .. image:: assets/Log_4.png
 
-- test
+- Click on “Sites” menu-item.
 
 .. image:: assets/ss.png
 
