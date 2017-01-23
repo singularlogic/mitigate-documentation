@@ -55,7 +55,7 @@ Edit a network
 
 .. image:: assets/en_4.png
 
-- Click on ‘’Networks’’ menu-item.
+- Upon successful editing of a network the list of networks will be update it.
 
 .. image:: assets/cn.png
 
