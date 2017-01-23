@@ -51,7 +51,7 @@ Edit a network
 
 .. image:: assets/en_3.png
 
-- test
+- Click on the “Save” button.
 
 .. image:: assets/en_4.png
 
