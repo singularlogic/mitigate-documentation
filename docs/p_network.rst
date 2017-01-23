@@ -16,7 +16,7 @@ Declaring a new network
 
 .. image:: assets/cn.png
 
-- test
+- Provide network details such us (Name,type,Network Identifier).
 
 .. image:: assets/cn_2.png
 
