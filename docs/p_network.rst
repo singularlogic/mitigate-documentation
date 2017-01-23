@@ -43,6 +43,22 @@ Edit a network
 
 .. image:: assets/cn.png
 
+- test
+
+.. image:: assets/en_2.png
+
+- test
+
+.. image:: assets/en_3.png
+
+- test
+
+.. image:: assets/en_4.png
+
+- Click on ‘’Networks’’ menu-item.
+
+.. image:: assets/cn.png
+
 
 Delete an existing network
 ----------------
@@ -56,3 +72,17 @@ Delete an existing network
 - Click on ‘’Networks’’ menu-item.
 
 .. image:: assets/cn.png
+
+- test
+
+.. image:: assets/dn_2.png
+
+- test 
+
+.. image:: assets/dn_3.png
+
+
+
+
+
+
