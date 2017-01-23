@@ -17,7 +17,7 @@ Declaring a new site
 
 .. image:: assets/ss_1.png
 
-- Provide threat details and push the “save” button.
+- Provide site details and push the “save” button.
 
 .. image:: assets/ss_2.png
 
@@ -38,6 +38,29 @@ Edit a site
 - Initially the user must login.
 
 .. image:: assets/Log_4.png
+
+- Click on “Sites” menu-item.
+
+.. image:: assets/ss.png
+
+- test 
+
+.. image:: assets/ed.png
+
+- test
+
+.. image:: assets/ed_2.png
+
+- btest
+
+.. image:: assets/ds_3.png
+
+- test
+
+.. image:: assets/ss.png
+
+
+
 
 
 Delete an existing site
