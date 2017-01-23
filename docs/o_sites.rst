@@ -17,7 +17,7 @@ Declaring a new site
 
 .. image:: assets/ss_2.png
 
-- test
+- Push the “save” button.
 
 .. image:: assets/ss_3.png
 
