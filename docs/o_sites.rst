@@ -4,7 +4,7 @@ Site Management
 
 Declaring a new site
 -----------------------
-- In order to declare a new threat several consecutive steps have to be undertaken .
+- In order to declare a new site several consecutive steps have to be undertaken .
 - Initially the user must login.
 
 .. image:: assets/Log_4.png
@@ -21,7 +21,7 @@ Declaring a new site
 
 .. image:: assets/ss_3.png
 
-- test
+- Upon successful creation of new site.The overall list of declare sites will be update it.
 
 .. image:: assets/ss_4.png
 
