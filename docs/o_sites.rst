@@ -47,7 +47,7 @@ Edit a site
 
 .. image:: assets/ed.png
 
-- test
+- Apply the requirement changes in “Site Edit” panel.
 
 .. image:: assets/ed_2.png
 
