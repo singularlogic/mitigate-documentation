@@ -20,7 +20,7 @@ Declaring a new network
 
 .. image:: assets/cn_2.png
 
-- test
+- Click on the “Save” button.
 
 .. image:: assets/cn_3.png
 
