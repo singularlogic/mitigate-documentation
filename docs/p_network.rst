@@ -47,7 +47,7 @@ Edit a network
 
 .. image:: assets/en_2.png
 
-- test
+- Apply the requirement changes in “Network descriptor Edit” panel.
 
 .. image:: assets/en_3.png
 
