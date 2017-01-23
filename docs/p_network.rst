@@ -39,6 +39,10 @@ Edit a network
 
 .. image:: assets/Log_4.png
 
+- Click on ‘’Networks’’ menu-item.
+
+.. image:: assets/cn.png
+
 
 Delete an existing network
 ----------------
@@ -48,3 +52,7 @@ Delete an existing network
 - Initially the user must login.
 
 .. image:: assets/Log_4.png
+
+- Click on ‘’Networks’’ menu-item.
+
+.. image:: assets/cn.png
