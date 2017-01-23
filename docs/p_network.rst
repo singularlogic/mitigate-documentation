@@ -73,7 +73,7 @@ Delete an existing network
 
 .. image:: assets/cn.png
 
-- test
+- Press on “delete” button on the desired network.
 
 .. image:: assets/dn_2.png
 
