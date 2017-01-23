@@ -13,6 +13,10 @@ Declaring a new site
 
 .. image:: assets/ss.png
 
+- test
+
+.. image:: assets/ss_1.png
+
 - Provide threat details and push the “save” button.
 
 .. image:: assets/ss_2.png
