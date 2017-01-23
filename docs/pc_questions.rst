@@ -26,7 +26,7 @@ Add a Business Partner
 
 .. image:: assets/bp_3.png
 
-- Upon succesful declaration of the new business  the list of declare business partners  will be update it.
+- Upon succesful declaration of the new business partner  the list of declare business partners  will be update it.
 
 .. image:: assets/bp.png
 
@@ -51,6 +51,9 @@ Edit a Bussiness Partner
 
 .. image:: assets/ebp.png
 
+- Upon succesful editing of the  business partner , the list of declare business partners  will be update it.
+
+.. image:: assets/bp.png
 
 
 Delete a Bussiness Partner
@@ -65,3 +68,13 @@ Delete a Bussiness Partner
 - Click on ‘’Business partners’’ menu-item.
 
 .. image:: assets/bp.png
+
+- test
+
+.. image:: assets/dp_2.png
+
+- Upon successful deleting of a business partner the list of business partners will be update it.
+
+.. image:: assets/dp_3.png
+
+
