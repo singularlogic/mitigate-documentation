@@ -25,7 +25,7 @@ Declaring a new site
 
 .. image:: assets/ss_3.png
 
-- Upon successful creation of new site.The overall list of declare sites will be update it.
+- Upon successful creation of new site, the overall list of declare sites will be update it.
 
 .. image:: assets/ss_4.png
 
@@ -69,7 +69,7 @@ Delete an existing site
 
 .. image:: assets/ss.png
 
-- ress on “delete” button on the desired site.
+- Press on “delete” button on the desired site.
 
 .. image:: assets/ds.png
 
