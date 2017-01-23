@@ -25,6 +25,13 @@ Add a Business Partner
 - Upon succesful declaration of the new business  the list of declare business  will be update it.
 
 .. image:: assets/bp_3.png
+.
+- Upon succesful declaration of the new business  the list of declare business partners  will be update it.
+
+.. image:: assets/bp.png
+
+
+
 
 
 Edit a Bussiness Partner
