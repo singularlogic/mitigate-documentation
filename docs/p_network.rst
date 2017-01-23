@@ -12,11 +12,28 @@ Declaring a new network
 
 .. image:: assets/Log_4.png
 
+- test
+
+.. image:: assets/cn.png
+
+- test
+
+.. image:: assets/cn_2.png
+
+- test
+
+.. image:: assets/cn_3.png
+
+- test
+
+.. image:: assets/cn_4.png
+
+
 
 Edit a network
 ----------------------
 
-- In order to edit network several consecutive steps have to be undertaken .
+- In order to edit a network several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
