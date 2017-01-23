@@ -43,7 +43,7 @@ Edit a site
 
 .. image:: assets/ss.png
 
-- test 
+- Press the “edit” button. 
 
 .. image:: assets/ed.png
 
