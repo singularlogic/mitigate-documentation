@@ -73,7 +73,7 @@ Delete an existing site
 
 .. image:: assets/ds.png
 
-- terst
+- Upon successful delete of a site, the list of sites will be update it.
 
 .. image:: assets/ds_2.png
 
