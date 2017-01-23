@@ -14,7 +14,7 @@ Add a Business Partner
 
 .. image:: assets/bp.png
 
-- test
+- Provide Business partner details.
 
 .. image:: assets/bp_2.png
 
