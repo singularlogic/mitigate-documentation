@@ -51,7 +51,7 @@ Edit a site
 
 .. image:: assets/ed_2.png
 
-- btest
+- Click on the “Save” button.
 
 .. image:: assets/ds_3.png
 
