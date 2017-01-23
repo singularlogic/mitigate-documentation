@@ -41,7 +41,7 @@ Managing a new control
 
 .. image:: assets/mc_2.png
 
-- test 
+- Apply the requirement changes in “Control Descriptor Edit” panel. 
 
 .. image:: assets/mc_3.png
 
