@@ -20,7 +20,7 @@ Declaring a new network
 
 .. image:: assets/cn_2.png
 
-- Click on the “Save” button.
+- Provide network details such us (Name,type,Network Identifier) and click on the “Save” button.
 
 .. image:: assets/cn_3.png
 
