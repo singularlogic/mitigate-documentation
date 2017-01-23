@@ -45,12 +45,13 @@ Managing a new control
 
 .. image:: assets/mc_3.png
 
--Upon successful editing of a control the list of controls will be update it.
+- Upon successful editing of a control the list of controls will be update it.
 
 .. image:: assets/mc_4.png
 
 Delete a Control
 ----------------
+
 - In order to declare a new control  several consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -64,7 +65,7 @@ Delete a Control
 
 .. image:: assets/dc.png
 
-- test
+- Upon successful deletion of a threat profile, the overall list of threat profiles will be update it.
 
 .. image:: assets/dc_2.png
 
