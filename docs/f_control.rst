@@ -61,11 +61,11 @@ Delete a Control
 
 .. image:: assets/mc.png
 
-- test
+- Press on “delete” button on the desired control.
 
 .. image:: assets/dc.png
 
-- Upon successful deletion of a threat profile, the overall list of threat profiles will be update it.
+- Upon successful deletion of a control, the overall list of controls will be update it.
 
 .. image:: assets/dc_2.png
 
