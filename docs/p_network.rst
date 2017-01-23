@@ -43,7 +43,7 @@ Edit a network
 
 .. image:: assets/cn.png
 
-- test
+- Press the “edit” button.
 
 .. image:: assets/en_2.png
 
