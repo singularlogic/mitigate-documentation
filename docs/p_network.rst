@@ -24,7 +24,7 @@ Declaring a new network
 
 .. image:: assets/cn_3.png
 
-- test
+- Upon succesful declaration of the new network the list of declare networks will be update it.
 
 .. image:: assets/cn_4.png
 
