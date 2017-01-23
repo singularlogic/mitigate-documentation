@@ -51,7 +51,7 @@ Edit a site
 
 .. image:: assets/ed_2.png
 
-- Click on the “Save” button.
+- Apply the requirement changes in “Site Edit” panel, and click on the “Save” button.
 
 .. image:: assets/ds_3.png
 
