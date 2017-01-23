@@ -33,7 +33,7 @@ Declaring a new site
 Edit a site
 ----------------------
 
-- In order to declare a new threat several consecutive steps have to be undertaken .
+- In order to edit a site several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
