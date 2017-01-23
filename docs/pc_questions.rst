@@ -14,7 +14,7 @@ Add a Business Partner
 
 .. image:: assets/bp.png
 
-- Provide Business partner details.
+- Click on “Create New” button.
 
 .. image:: assets/bp_2.png
 
