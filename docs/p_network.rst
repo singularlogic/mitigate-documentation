@@ -12,7 +12,7 @@ Declaring a new network
 
 .. image:: assets/Log_4.png
 
-- test
+- Click on ‘’Networks’’ menu-item.
 
 .. image:: assets/cn.png
 
