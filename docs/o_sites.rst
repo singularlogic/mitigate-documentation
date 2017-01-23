@@ -69,7 +69,7 @@ Delete an existing site
 
 .. image:: assets/ss.png
 
-- Click on “Sites” menu-item.
+- ress on “delete” button on the desired site.
 
 .. image:: assets/ds.png
 
