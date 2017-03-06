@@ -27,4 +27,4 @@ Add a Supply Chain Service
 
 .. image:: assets/addscsp.png
 
-
+- Provide the name of the SCS process and then click **“Save”**. 
