@@ -48,6 +48,7 @@ Add an Asset and assosiate it to a threat profile.
 **MITIGATE platform** helps you to automatically inhere existing information of potential vulnerabilities / threats associated to that asset. If there are other vulnerabilities / threats known only by you or your organization, you can add them manually (*Create a zero-day Vulnerability;* *Declare a new Threat*).
 
 **Note #1:** Firewall is considered “Hardware”.
+
 **Note #2:** Software can be installed to another Software or OS.
 
 
