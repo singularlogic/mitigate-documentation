@@ -13,3 +13,5 @@ Initiate a Risk Assessment
           -   **Type: select** the type of Risk Management to perform (Simulation and Real).
 
 - Then press **“Initiate”**.
+
+.. image:: assets/ra1.png
