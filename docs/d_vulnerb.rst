@@ -16,9 +16,11 @@ Once you have made all changes you deem necessary, click **“Save”**.
 Create a zero day vulnerability
 ----------
 
+- To add a new vulnerability, click **“Vulnerabilies”** on the menu (left-hand side) and press **“Create new”** button. 
 
+.. image:: assets/zdv.jpg
 
-
+- Fill in the information required and then click **“Save”**.
 
 
 
