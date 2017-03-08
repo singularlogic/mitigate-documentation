@@ -16,15 +16,3 @@ Add a Supply Chain Service
 - Provide the name of the SC service and press **“Save”**. 
 
 
-Add a Supply Chain Service
---------------------------
-
-- You can specify the different processes/sub-processes present in this Supply Chain Service. 
-
-- To add a new process click on “List Processes” button 
-
-- And then “Create new” button.
-
-.. image:: assets/addscsp.png
-
-- Provide the name of the SCS process and then click **“Save”**. 
