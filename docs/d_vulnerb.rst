@@ -9,6 +9,9 @@ Edit among publish vulnerabilities
 .. image:: assets/epv.png
 .. image:: assets/epv_2.jpg
 
+- Please notice that all the fields in white can be modified (e.g. ID, CVSS score, access vector, authentication, access complexity, impact). 
+Once you have made all changes you deem necessary, click **“Save”**.
+
 
 Create a zero day vulnerability
 ----------
