@@ -15,3 +15,9 @@ Initiate a Risk Assessment
 - Then press **“Initiate”**.
 
 .. image:: assets/ra1.png
+
+- If you have selected a Simulation, you can make any changes you deem necessary before to execute it.
+
+- By clicking on “View assets” the system will show you the cyber assets participating in this SCS process. 
+
+.. image:: assets/ra2.jpg
