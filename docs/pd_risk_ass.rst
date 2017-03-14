@@ -21,3 +21,7 @@ Initiate a Risk Assessment
 - By clicking on “View assets” the system will show you the cyber assets participating in this SCS process. 
 
 .. image:: assets/ra2.jpg
+
+- As you may notice, you can edit all the one or more assets.
+
+.. image:: assets/ra3.png
