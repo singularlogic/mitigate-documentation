@@ -25,3 +25,11 @@ Initiate a Risk Assessment
 - As you may notice, you can edit all the one or more assets.
 
 .. image:: assets/ra3.png
+
+
+- You can edit the vulnerabilities / threats and controls associated to each asset.
+
+
+- Once you have made all the changes, press the “Execute” button. The system will notify you that your Risk Assessment was successufully executed.
+
+.. image:: assets/ra4.png
