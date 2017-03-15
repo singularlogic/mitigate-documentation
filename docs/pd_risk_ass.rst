@@ -33,3 +33,5 @@ Initiate a Risk Assessment
 - Once you have made all the changes, press the “Execute” button. The system will notify you that your Risk Assessment was successufully executed.
 
 .. image:: assets/ra4.png
+
+- You can now view the RA reports and the attack paths.
