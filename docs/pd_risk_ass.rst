@@ -35,3 +35,7 @@ Initiate a Risk Assessment
 .. image:: assets/ra4.png
 
 - You can now view the RA reports and the attack paths.
+
+- **View Reports**
+
+
