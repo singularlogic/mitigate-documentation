@@ -51,6 +51,9 @@ Initiate a Risk Assessment
 .. image:: assets/ra7.png
 .. image:: assets/ra8.png
 
+- **View attack paths**
 
+- To view the attack paths you need to select first the “Propagation lenght”, which is the maximum number of assets the attacker can exploit to reach any asset in the vicinity, and the “Maximum lenght”, which is the maximum number of assets the attacker can exploit in order to reach the target asset. Also, the attacker capability along with his/her location have to be selected. Finally, you have to indicate the “Entry points”, which is the asset that is going to be used by the attacker as the first attack point, and the “Target points”, which is the target asset of the attacker.
+Once the information is completed, you can then press “Discover” button to view the attack paths in the panel below.
 
-
+.. image:: assets/ra9.png
