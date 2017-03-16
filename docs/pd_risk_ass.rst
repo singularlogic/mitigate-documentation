@@ -46,7 +46,10 @@ Initiate a Risk Assessment
 
 .. image:: assets/ra6.png
 
+- Summary report:
 
+.. image:: assets/ra7.png
+.. image:: assets/ra8.png
 
 
 
