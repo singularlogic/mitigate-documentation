@@ -38,4 +38,8 @@ Initiate a Risk Assessment
 
 - **View Reports**
 
+- Risk analysis report
+
+.. image:: assets/ra5.png
+
 
