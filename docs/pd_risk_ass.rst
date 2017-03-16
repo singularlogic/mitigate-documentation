@@ -42,4 +42,12 @@ Initiate a Risk Assessment
 
 .. image:: assets/ra5.png
 
+- Threat Analysis report:
+
+.. image:: assets/ra6.png
+
+
+
+
+
 
