@@ -55,3 +55,9 @@ Add an Asset and assosiate it to a threat profile.
 
 Management of a Threat on a specific asset
 ----------------------------------------
+
+- For every asset, you have the possibility to edit the threats associated to it. To do so, click “Assets” on the menu (left-hand side of the page) and select the specific asset from the list.
+
+.. image:: assets/am1.png
+
+
