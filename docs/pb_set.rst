@@ -67,3 +67,5 @@ Management of a Threat on a specific asset
 - In the **“Confirmed vulnerabilities”** view you can see all vulnerabilities associated to that asset.Each vulnerability has an ID, a CVSS (Common Vulnerability Scoring System) score, Exploitability level, Impact, and a brief Description.
 
 .. image:: assets/am3.png
+
+- In the **“Threat”** view you can view all threat associated to the specific asset, divided in three categories: i) Derived Threats, ii) Additional Threats, and iii) Suppressed Threats. You can also add and/or suppress additional threats.
