@@ -60,4 +60,10 @@ Management of a Threat on a specific asset
 
 .. image:: assets/am1.png
 
+- Click on **“Customize”** (key icon) associated to the selected asset.
+
+.. image:: assets/am2.png
+
+- 
+
 
